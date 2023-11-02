@@ -1,4 +1,6 @@
-
+body{
+   background-color: cadetblue;
+}
 .navbar ul{
     list-style-type: none;
     margin: 0;
